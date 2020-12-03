@@ -1,0 +1,16 @@
+table{
+	background-color: aqua;
+	color: rgb(61, 31, 31);
+	margin-left: 100px;
+
+}
+td{
+	padding: 20px;
+	border: 2px solid rgb(84, 134, 119);
+
+}
+h1{
+	color: rgb(62, 158, 102);
+	margin-left: 190px;
+	font-size: 60px;
+}
